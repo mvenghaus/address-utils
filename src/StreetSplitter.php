@@ -4,7 +4,6 @@ namespace Inkl\AddressUtils;
 
 class StreetSplitter
 {
-
 	/**
 	 * Split single line in street and house number
 	 * @param string $street
@@ -34,5 +33,4 @@ class StreetSplitter
 
 		return $street;
 	}
-
 }
